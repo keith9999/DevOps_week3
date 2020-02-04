@@ -1,3 +1,3 @@
 add new line
-test SSH key-2nd
+test SSH key
 console.log(Demostrating changeing a committed file)
